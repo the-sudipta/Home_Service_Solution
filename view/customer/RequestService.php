@@ -40,8 +40,8 @@ if($_SESSION["user_id"] <= 0){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Service Solution -> Customer Dashboard</title>
-    <link rel="stylesheet" href="/Home_Service_Solution/css/Customer_Dashboard.css">
-    <link rel="stylesheet" href="/Home_Service_Solution/css/Request_Service.css">
+    <link rel="stylesheet" href="/css/Customer_Dashboard.css">
+    <link rel="stylesheet" href="/css/Request_Service.css">
 
     <script>
 

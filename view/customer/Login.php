@@ -24,7 +24,7 @@ $signup_decider = $routes['signup_decider'];
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Home Service Solution - Login</title>
-    <link rel="stylesheet" href="/Home_Service_Solution/css/Login.css">
+    <link rel="stylesheet" href="/css/Login.css">
 
 
 

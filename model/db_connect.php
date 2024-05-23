@@ -2,9 +2,9 @@
 function db_conn()
 {
     $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "home_service_solution";
+    $username = "u899200555_home_service";
+    $password = "Home_Service#1";
+    $dbname = "u899200555_home_service";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);

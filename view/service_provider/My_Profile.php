@@ -50,8 +50,8 @@ $user_profile_type = $service_provider_data['profile_mode'];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Service Solution -> Customer Dashboard</title>
-    <link rel="stylesheet" href="/Home_Service_Solution/css/Customer_Dashboard.css">
-    <link rel="stylesheet" href="/Home_Service_Solution/css/Service_Provider_Profile.css">
+    <link rel="stylesheet" href="/css/Customer_Dashboard.css">
+    <link rel="stylesheet" href="/css/Service_Provider_Profile.css">
 </head>
 <body>
 <div class="main_container">
