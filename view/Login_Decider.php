@@ -17,7 +17,7 @@ $Service_Provider_Login = $routes['service_provider_login'];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Service Solution - Login</title>
-    <link rel="stylesheet" href="/Home_Service_Solution/css/Login_Signup_Decider.css">
+    <link rel="stylesheet" href="/css/Login_Signup_Decider.css">
     <style>
         /* Style to remove default link styles */
         .card-link {
