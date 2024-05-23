@@ -5,7 +5,7 @@ $routes = [
     'INDEX' => '/index.php',
     '500_error' => '/view/Error_500.php',
 
-    'login_decider' => '/Login_Decider.php',
+    'login_decider' => '/view/Login_Decider.php',
     'signup_decider' => '/view/Signup_Decider.php',
 
     'customer_login' => '/view/customer/Login.php',
