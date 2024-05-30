@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 <a href="#">
-<img src="https://raw.githubusercontent.com/the-sudipta/Car_Shop_Management_System/main/DOCUMENTATIONS/images/Car%20Shop%20Management%20System.png" alt="Logo" width="100" height="100">
+<img src="https://raw.githubusercontent.com/the-sudipta/Home_Service_Solution/main/DOCUMENTATIONS/images/Home%20Service%20Solution%20Logo.png" alt="Logo" width="100" height=80">
 </a>
 <h3 align="center">Car Shop Management System</h3>
 <p align="center">
