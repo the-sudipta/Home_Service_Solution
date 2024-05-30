@@ -3,9 +3,9 @@
 <a href="#">
 <img src="https://raw.githubusercontent.com/the-sudipta/Home_Service_Solution/main/DOCUMENTATIONS/images/Home%20Service%20Solution%20Logo.png" alt="Logo" width="100" height=80">
 </a>
-<h3 align="center">Car Shop Management System</h3>
+<h3 align="center">Home Service Solution</h3>
 <p align="center">
-A website that makes your car selling, easy!
+A Website that Provides you Home Services
 <br/>
 <a href="https://github.com/the-sudipta/Home_Service_Solution/raw/main/DOCUMENTATIONS/Project_Manual_Car_Shop_Management_System.pdf" download>
     <strong>Explore the docs »</strong>
