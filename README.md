@@ -12,7 +12,7 @@ A website that makes your car selling, easy!
 </a>
 
 <br/>
-<a href="https://car-shop-management-system.sudiptakumar.com">View Demo .</a>  
+<a href="https://home-service-solution.sudiptakumar.com/">View Demo .</a>  
 <a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Report Bug .</a>
 <a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Request Feature</a>
 </p>
