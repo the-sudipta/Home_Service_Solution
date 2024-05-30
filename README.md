@@ -7,14 +7,14 @@
 <p align="center">
 A website that makes your car selling, easy!
 <br/>
-<a href="https://github.com/the-sudipta/Car_Shop_Management_System/raw/main/DOCUMENTATIONS/Project_Manual_Car_Shop_Management_System.pdf" download>
+<a href="https://github.com/the-sudipta/Home_Service_Solution/raw/main/DOCUMENTATIONS/Project_Manual_Car_Shop_Management_System.pdf" download>
     <strong>Explore the docs »</strong>
 </a>
 
 <br/>
 <a href="https://home-service-solution.sudiptakumar.com/">View Demo .</a>  
-<a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Report Bug .</a>
-<a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Request Feature</a>
+<a href="https://github.com/the-sudipta/Home_Service_Solution/issues">Report Bug .</a>
+<a href="https://github.com/the-sudipta/Home_Service_Solution/issues">Request Feature</a>
 </p>
 </div>
 
