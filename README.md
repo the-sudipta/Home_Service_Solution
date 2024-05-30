@@ -188,8 +188,8 @@ Contributions are always welcome!
 
 This project is used by the following individuals:
 
-- Asif Abdullah Uday
-
+- Tamal Saha
+- Turjoy Saha
 
 ## :warning: License
 
