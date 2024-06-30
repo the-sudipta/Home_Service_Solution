@@ -7,7 +7,7 @@
 <p align="center">
 A Website that Provides you Home Services
 <br/>
-<a href="https://github.com/the-sudipta/Home_Service_Solution/raw/main/DOCUMENTATIONS/Project_Manual_Car_Shop_Management_System.pdf" download>
+<a href="https://github.com/the-sudipta/Home_Service_Solution/raw/main/DOCUMENTATIONS/Project_Manual_Home_Service_Solution.pdf" download>
     <strong>Explore the docs »</strong>
 </a>
 
